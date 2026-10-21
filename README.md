@@ -1,10 +1,8 @@
 <div align="center">
 
-# ¡Hola! Soy Facundo Pérez 👋
+<img src="./banner.png" alt="Facundo Pérez | Desarrollo de software, Infraestructura IT y Redes | Montevideo, Uruguay" width="100%" />
 
-### Desarrollo de software · Infraestructura IT · Redes
-
-Estudiante de informática en Montevideo, Uruguay 🇺🇾
+**Estudiante de informática · Software, sistemas y automatización**
 
 Me interesa construir soluciones útiles, entender cómo funcionan los sistemas y seguir aprendiendo mediante proyectos reales.
 
