@@ -49,8 +49,7 @@ Me interesa construir soluciones útiles, entender cómo funcionan los sistemas 
 | Proyecto | Descripción | Repositorio |
 | --- | --- | --- |
 | **Ltecobike ERP** | Sistema de gestión orientado a operaciones comerciales, inventario y procesos de negocio. | [Ver proyecto](https://github.com/faku-20/LTeco-ERP-System) |
-| **Sistema de Riego** | Proyecto de automatización y control de riego basado en ESP32. | [Ver proyecto](https://github.com/faku-20/sistema-de-riego) |
-| **Proyecto STEAM** | Proyecto académico que integra conocimientos técnicos y desarrollo práctico. | [Ver proyecto](https://github.com/faku-20/proyecto-steam) |
+| **Proyecto STEAM — Sistema de riego** | Proyecto académico de automatización de riego con ESP32, sensores y control electrónico. | [Ver proyecto](https://github.com/faku-20/proyecto-steam) |
 | **Automotora PHP** | Ejercicio de desarrollo de software con PHP. | [Ver proyecto](https://github.com/faku-20/Automotora_php) |
 
 ## 📊 Actividad en GitHub
