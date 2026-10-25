@@ -1,58 +1,47 @@
 <div align="center">
 
-<img src="./banner.png" alt="Facundo Pérez | Desarrollo de software, Infraestructura IT y Redes | Montevideo, Uruguay" width="100%" />
+<img src="./banner.png" alt="Facundo Pérez | Desarrollo de software, Infraestructura IT y Redes" width="100%" />
 
-**Estudiante de informática · Software, sistemas y automatización**
+**Estudiante de Redes y Software · Infraestructura IT · Linux · Desarrollo de sistemas**
 
-Me interesa construir soluciones útiles, entender cómo funcionan los sistemas y seguir aprendiendo mediante proyectos reales.
+Montevideo, Uruguay
 
-[![GitHub](https://img.shields.io/badge/GitHub-faku--20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faku-20)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ver_sitio-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://faku-20.github.io/)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👋 Sobre mí
 
-- 🎓 Estudio informática, con formación en programación, bases de datos, redes y sistemas operativos.
-- 🧩 Desarrollo proyectos web con **PHP, JavaScript y SQL**, y sigo profundizando en **Laravel**.
-- 🖥️ Practico administración de sistemas y servicios con **Linux, Docker, Proxmox y redes**.
-- 🔌 También me interesan la **automatización, la electrónica y ESP32**.
-- 🎯 Busco seguir creciendo en **desarrollo de software, soporte técnico e infraestructura IT**.
+Soy estudiante de la **Tecnicatura en Redes y Software**. Desarrollo y mantengo sistemas para un negocio familiar, y practico administración de servicios, virtualización y redes en mi laboratorio personal.
 
-## 🛠️ Tecnologías y herramientas
+Me interesa especialmente el trabajo técnico que se puede **mostrar y explicar**: qué problema había, qué implementé, cómo se desplegó y qué queda por mejorar.
 
-<div align="center">
+## 🔎 Proyectos y evidencia técnica
 
-**Desarrollo web y bases de datos**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Sistemas, infraestructura y control de versiones**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-</div>
-
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Repositorio |
+| Proyecto | Qué hice | Evidencia |
 | --- | --- | --- |
-| **Ltecobike ERP** | Sistema de gestión orientado a operaciones comerciales, inventario y procesos de negocio. | [Ver proyecto](https://github.com/faku-20/LTeco-ERP-System) |
-| **Proyecto STEAM — Sistema de riego** | Proyecto académico de automatización de riego con ESP32, sensores y control electrónico. | [Ver proyecto](https://github.com/faku-20/proyecto-steam) |
-| **Automotora PHP** | Ejercicio de desarrollo de software con PHP. | [Ver proyecto](https://github.com/faku-20/Automotora_php) |
+| **Ltecobike · Sistema de gestión** | Desarrollo y mantenimiento de módulos comerciales; administración de servicios Linux, Docker y MariaDB; evolución del panel y catálogo público. | [Caso técnico](evidencias/ltecobike.md) · [Código público de referencia](https://github.com/faku-20/LTeco-ERP-System) |
+| **Homelab · Infraestructura y redes** | Laboratorio con Proxmox VE, VM Rocky Linux, pfSense virtualizado, LXC, servicios Docker, DNS y Tailscale. | [Arquitectura y tareas realizadas](evidencias/homelab.md) |
+| **Proyecto STEAM · Sistema de riego** | Prototipo con ESP32 y control web local para una maqueta de curado; panel con API y simulador para ensayar órdenes. | [Documentación del proyecto](https://github.com/faku-20/proyecto-steam) · [Simulador reproducible](https://github.com/faku-20/sistema-de-riego/tree/main/panel-local) |
 
-## 📊 Actividad en GitHub
+**Alcance de la evidencia:** Ltecobike tiene una evolución genérica de código publicada, no necesariamente idéntica a la instancia utilizada por el negocio; el homelab es un laboratorio personal; el riego sigue en desarrollo y la demo no acciona una bomba real.
+
+## 🧰 Tecnologías que utilizo
+
+- **Sistemas e infraestructura:** Linux (Rocky / Fedora), Proxmox VE, Docker, pfSense, DNS, Tailscale.
+- **Desarrollo y datos:** PHP, SQL / MariaDB, HTML, CSS, JavaScript; aprendizaje y evolución de proyectos con Laravel.
+- **Herramientas:** Git, GitHub, Bash y documentación técnica.
+- **Prototipado:** ESP32, sensores e interfaces web locales.
+
+Las tecnologías se entienden mejor junto con los proyectos anteriores: allí explico **dónde** las utilicé.
+
+## 📚 Otro trabajo académico
+
+- [Automotora PHP](https://github.com/faku-20/Automotora_php): ejercicio de introducción a PHP, manejo de sesiones, perfiles y flujo básico de catálogo. Es un ejercicio académico, no una aplicación comercial en producción.
+
+## 📊 Actividad
 
 <div align="center">
 
@@ -60,14 +49,11 @@ Me interesa construir soluciones útiles, entender cómo funcionan los sistemas 
 
 </div>
 
-> Las estadísticas se calculan a partir de los repositorios accesibles para el servicio externo; no representan necesariamente todas mis habilidades.
+> Esta estadística depende de los repositorios accesibles al servicio; no sustituye la evidencia de los proyectos.
 
-## 🤝 Contacto
+## 📬 Contacto
 
-Podés explorar mis proyectos acá en GitHub o visitar mi [sitio web](https://faku-20.github.io/).
+- [Portfolio personal](https://faku-20.github.io/)
+- [Repositorios de GitHub](https://github.com/faku-20?tab=repositories)
 
-<div align="center">
-
-**Aprendiendo, construyendo y mejorando proyecto a proyecto.**
-
-</div>
+**En búsqueda de oportunidades junior en soporte técnico, infraestructura, administración de sistemas y desarrollo de software.**
