@@ -24,9 +24,10 @@ Me interesa especialmente el trabajo técnico que se puede **mostrar y explicar*
 | --- | --- | --- |
 | **Ltecobike · Sistema de gestión** | Desarrollo y mantenimiento de módulos comerciales; administración de servicios Linux, Docker y MariaDB; evolución del panel y catálogo público. | [Caso técnico](evidencias/ltecobike.md) · [Código público de referencia](https://github.com/faku-20/LTeco-ERP-System) |
 | **Homelab · Infraestructura y redes** | Laboratorio con Proxmox VE, VM Rocky Linux, pfSense virtualizado, LXC, servicios Docker, DNS y Tailscale. | [Arquitectura y tareas realizadas](evidencias/homelab.md) |
+| **S.I.G.T.O. · Sell Xpress** | Participación en infraestructura y entorno MariaDB de un sistema de escritorio C# / WinForms con perfiles de administración, empresa y cliente. | [Resumen técnico público](evidencias/sigto.md) · Código privado |
 | **Proyecto STEAM · Sistema de riego** | Prototipo con ESP32 y control web local para una maqueta de curado; panel con API y simulador para ensayar órdenes. | [Documentación del proyecto](https://github.com/faku-20/proyecto-steam) · [Simulador reproducible](https://github.com/faku-20/sistema-de-riego/tree/main/panel-local) |
 
-**Alcance de la evidencia:** Ltecobike tiene una evolución genérica de código publicada, no necesariamente idéntica a la instancia utilizada por el negocio; el homelab es un laboratorio personal; el riego sigue en desarrollo y la demo no acciona una bomba real.
+**Alcance de la evidencia:** Ltecobike tiene una evolución genérica de código publicada, no necesariamente idéntica a la instancia utilizada por el negocio; el homelab es un laboratorio personal; S.I.G.T.O. tiene código privado y solo un resumen técnico público; el riego sigue en desarrollo y la demo no acciona una bomba real.
 
 ## 🧰 Tecnologías que utilizo
 
